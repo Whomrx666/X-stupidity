@@ -7,6 +7,7 @@ X-stupidity is a surprise tool which you will know the contents of when you inst
 ## Instalations
 ```
 $ pkg update -y && pkg upgrade -y
+$ termux-setup-storage
 $ pkg install git
 $ pkg install python -y
 $ pkg install python-pip
